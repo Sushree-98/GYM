@@ -1,0 +1,30 @@
+body{
+    background:url("../images/gym.jpeg")
+    no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Lobster', cursive;
+}
+h1{
+    text-align: center;
+    font-size:50px;
+    color:darksalmon;
+}
+
+div{
+    background-color:cornsilk;
+    color: burlywood;
+    width: 60%;
+    margin: 200px auto;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+}
+i{
+    color: black;
+}
+button{
+    color: black;
+    width:auto;
+    border-radius: 10px;
+    
+}
